@@ -1,7 +1,8 @@
 <h1 align="center">Team Generator 👋</h1>
 
 ![badge](https://img.shields.io/badge/license-SMU-red)<br />
-![Untitled_ Jun 24, 2022 12_47 AM (1)](https://user-images.githubusercontent.com/98129363/175473921-4f029757-1380-4beb-a961-71376591a174.gif)
+
+![Untitled_ Jun 24, 2022 12_47 AM (1)](https://user-images.githubusercontent.com/98129363/175474303-32eccaf0-56e2-4767-a6f6-23610461a123.gif)
 
 ## Description
 🔍 This project focuses on Object Oriented Programming and allows the user to input a Manager, Engineer, and an Intern using inquirer to generate an html page that shows all of the members of the team. The project also has test to ensure the program is running correctly
