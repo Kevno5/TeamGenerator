@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/badge/license-SMU-red)<br />
 
-<iframe src="https://drive.google.com/file/d/18V6zZhkyFJX-MNCal3KC0XLCbP0d_ZtM/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/18V6zZhkyFJX-MNCal3KC0XLCbP0d_ZtM/view
 
 ## Description
 🔍 This project focuses on Object Oriented Programming and allows the user to input a Manager, Engineer, and an Intern using inquirer to generate an html page that shows all of the members of the team. The project also has test to ensure the program is running correctly
